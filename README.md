@@ -63,6 +63,6 @@ ITI: Internship in the Internet of Things, building foundational skills in IoT s
 Conducted extensive testing on the ITC platform, ensuring functionality, performance, and security to improve user experience.
 Used Postman for API testing, JMeter for performance testing, and Cypress for automation, applying ISTQB standards in test development, documentation, and bug reporting
 [ITC Platform project](https://github.com/Mai931/DEPI-Graduation-Project-Testing-educational-plateform-Admin-account-)
-   * [Elmenus Bugs Project]((https://docs.google.com/spreadsheets/d/1hczTLMDyGJhZQ5dNUxbNh-3sbswWBJzv42GEFZe77c0/edit?gid=0#gid=0)): A detailed Trello board showcasing identified bugs and testing processes for the Elmenus application.
-   * [Sree3 Project]((https://trello.com/b/hV8m6h6p/sree3)): A Trello board documenting the testing and feedback processes for the Sree3 application.
+   * [Elmenus Bugs Project](https://docs.google.com/spreadsheets/d/1hczTLMDyGJhZQ5dNUxbNh-3sbswWBJzv42GEFZe77c0/edit?gid=0#gid=0): A detailed Trello board showcasing identified bugs and testing processes for the Elmenus application.
+   * [Sree3 Project](https://trello.com/b/hV8m6h6p/sree3): A Trello board documenting the testing and feedback processes for the Sree3 application.
 
